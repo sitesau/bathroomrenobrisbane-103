@@ -1,0 +1,22 @@
+{
+  "wheel_id": 394,
+  "structure": "umbrella",
+  "slug": "bathroomrenobrisbane-103",
+  "project": "bathroom-renovations-brisbane-common-mistakes-4905834ee36e6c81f",
+  "parent_t1_ref": "bathroomrenobrisbane-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenobrisbane.com.au",
+  "primary_kw": "bathroom renovations brisbane common mistakes",
+  "intended_url": "https://aumedia.neocities.org/bathroom-renovations-brisbane-common-mistakes-4905834ee36e6c81f/",
+  "tier": "T2",
+  "writeback_nonce": "baeab61c13607b05",
+  "links": [
+    {
+      "target_url": "http://bathroom-renovations-brisbane-suburb-guide-c47474a0f78c239eabe9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Bathroom Renovations Brisbane Suburb Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
